@@ -19,6 +19,11 @@ The script expects an `input` file and creates a `makefile` with all possible co
     $ python pix_fmts.py <input.png> > makefile
     $ make -r -k -jN
 
+It might be wise to remove all the duplicates afterwards (there will be a whole bunch of duplicates):
+
+    $ cd output_dir
+    $ fdupes --delete --noprompt .
+
 # Have fun
 
 You now have a few gigabytes of corrupted images to play with. Have fun!
