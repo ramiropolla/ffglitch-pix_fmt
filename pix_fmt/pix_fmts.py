@@ -70,7 +70,8 @@ for pix_fmt_in in pix_fmts_in:
         continue
     combinations[pix_fmt_in] = []
     for pix_fmt_out in pix_fmts_out:
-        combinations[pix_fmt_in].append(pix_fmt_out)
+        if pix_fmt_in != pix_fmt_out:
+            combinations[pix_fmt_in].append(pix_fmt_out)
 
 # Write variables
 print "FFMPEG = %s" % ffmpeg
