@@ -27,3 +27,17 @@ It might be wise to remove all the duplicates afterwards (there will be a whole 
 # Have fun
 
 You now have a few gigabytes of corrupted images to play with. Have fun!
+
+# Samples
+
+![libcaca-logo](samples/libcaca-logo.png)
+![gbrp12le->yuv420p10le](samples/gbrp12le_yuv420p10le.png)
+![gbrp9be->bgr48le](samples/gbrp9be_bgr48le.png)
+![gbrp9be->yuv422p10le](samples/gbrp9be_yuv422p10le.png)
+![gbrp->yuvj440p](samples/gbrp_yuvj440p.png)
+![xyz12be->yuv420p10le](samples/xyz12be_yuv420p10le.png)
+![yuv444p12le->yuv444p16be](samples/yuv444p12le_yuv444p16be.png)
+![yuv444p16be->yuv420p14be](samples/yuv444p16be_yuv420p14be.png)
+![yuva422p9be->yuv444p14le](samples/yuva422p9be_yuv444p14le.png)
+![yuva422p9le->yuv420p16be](samples/yuva422p9le_yuv420p16be.png)
+![yuvj444p->yuv420p12le](samples/yuvj444p_yuv420p12le.png)
