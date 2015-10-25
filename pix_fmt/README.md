@@ -41,3 +41,10 @@ You now have a few gigabytes of corrupted images to play with. Have fun!
 ![yuva422p9be->yuv444p14le](samples/yuva422p9be_yuv444p14le.png)
 ![yuva422p9le->yuv420p16be](samples/yuva422p9le_yuv420p16be.png)
 ![yuvj444p->yuv420p12le](samples/yuvj444p_yuv420p12le.png)
+
+![argb->argb](samples2/argb_argb.png)
+![bgr48be->yuv444p14be](samples2/bgr48be_yuv444p14be.png)
+![gbrp10be->xyz12le](samples2/gbrp10be_xyz12le.png)
+![yuv444p16le->yuv422p12le](samples2/yuv444p16le_yuv422p12le.png)
+![yuv444p16le->yuv422p14le](samples2/yuv444p16le_yuv422p14le.png)
+![yuva444p->yuv422p12le](samples2/yuva444p_yuv422p12le.png)
